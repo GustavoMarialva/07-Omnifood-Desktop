@@ -133,13 +133,10 @@ Privacy & terms
 
 - Navigation
 - Hero
-- Features
-- How it works
-- Diets
-- Meals
-- CTA
-- Pricing
-- Gallery
-- Testmonials
 - Featured in
+- How it works
+- Meals (and list of diets)
+- Testmonials + gallery
+- Pricing + features
+- CTA
 - Footer
