@@ -11,6 +11,11 @@ Cadastro e login de usuário;
 Exibição do menu de comida disponível;
 
 <h2>Tecnologias utilizadas</h2>
-HTML
-CSS
-Javascript
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+</ul>
+
+<h2> O que aprendi </h2>
+Neste projeto pude conhecer mais profundamente as marcações do HTML e sua estrutura, funcionalidades do CSS (como animações, estruturas de flexbox e grid e outros e O Javascript foi utilizado para fazer o menu hamburguer no mobile e melhorar o scroll da tela.
